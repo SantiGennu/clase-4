@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "Boca Juniors",
+    "price": 1800,
+    "src": "/resources/img/product-images/bocaJuniors.jpg"
+  },
+  {
+    "id": 3,
+    "name": "River",
+    "price": 1800,
+    "src": "/resources/img/product-images/river.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Belgrano",
+    "price": 850,
+    "src": "/resources/img/product-images/belgrano.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Temperley",
+    "price": 780,
+    "src": "/resources/img/product-images/temperley.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Rosario Central",
+    "price": 1500,
+    "src": "/resources/img/product-images/rosarioCentral.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Gimnasia",
+    "price": 2500,
+    "src": "/resources/img/product-images/gimnasia.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Estudiantes de la plata",
+    "price": 1800,
+    "src": "/resources/img/product-images/estudiantesdelaplata.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Racing",
+    "price": 1800,
+    "src": "/resources/img/product-images/racing.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Independiente",
+    "price": 1800,
+    "src": "/resources/img/product-images/independiente.jpg"
+  },
+  {
+    "id": 12,
+    "name": "San lorenzo",
+    "price": 1800,
+    "src": "/resources/img/product-images/sanlorenzo.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Tigre",
+    "price": 1800,
+    "src": "/resources/img/product-images/tigre.jpg"
+  },
+  {
+    "name": "Banfield",
+    "price": 2200,
+    "src": "/resources/img/product-images/banfield",
+    "id": 14
+  },
+  {
+    "name": "Huracan",
+    "price": 2200,
+    "src": "/resources/img/product-images/huracan",
+    "id": 15
+  },
+ 
+]
